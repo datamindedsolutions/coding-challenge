@@ -1,12 +1,12 @@
-Coding challenge or existing code?
+Coding challenge
 ==================================
 
-This [coding challenge](coding_challenge.md) is optional if you already have some code that you're proud of and can share with us.
+Please complete the project described in our [coding challenge](ios_coding_challenge.md).
 
 Existing code
 -------------
 
-If you have existing code, please follow the following guidelines:
+If you have existing code that you'd like us to look at, please follow the following guidelines:
 
 * Include a link to the hosted repository (e.g. Github, Bitbucket...). We cannot review archives or single files.
 * The repo should include a README that follows the [principles described below](#readme) In particular, please make sure to include high-level explanation about what the code is doing.
@@ -18,7 +18,7 @@ If you have existing code, please follow the following guidelines:
 Readme
 ------
 
-Regardless of whether it's your own code or our coding challenge, write your README as if it was for a production service. Include the following items:
+Write your README as if it was for a production service. Include the following items:
 
 * Description of the problem and solution.
 * Whether the solution focuses on back-end, front-end or if it's full stack.
