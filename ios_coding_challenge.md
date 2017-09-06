@@ -47,4 +47,4 @@ these screenshots to get started.
 How will we review?
 -------------------
 
-[Guidelines can be found here](https://github.com/datamindedsolutions/coding-challenge/blob/master/coding_challenge.md)
+[Guidelines can be found here](https://github.com/datamindedsolutions/coding-challenge)
