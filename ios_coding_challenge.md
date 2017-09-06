@@ -40,9 +40,9 @@ You can use the Yelp app to get insperation on how to present the List,
 Sorting, and Details page. Feel free to add your own flavor to the app, but use 
 these screenshots to get started.
 
-![Search screen](images/search.png)
-![Sort screen](images/sort.png)
-![Details screen](images/details.png)
+![Search screen](images/search.jpg)
+![Sort screen](images/sort.jpg)
+![Details screen](images/details.jpg)
 
 How will we review?
 -------------------
