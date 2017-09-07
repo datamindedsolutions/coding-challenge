@@ -13,7 +13,7 @@ Prototype the following projects:
 
 ### Noteworth Lunch
 
-1. Use the [Google Places API](https://developers.google.com/places/).
+1. Use the [Google Places API](https://developers.google.com/places/web-service/intro).
 1. A user should be presented with a list of restaurants based on the food type
 and the location they enter.
 2. A user should be able to sort the list by Best Match, Distance, and Most Reviewed.
@@ -40,9 +40,7 @@ You can use the Yelp app to get insperation on how to present the List,
 Sorting, and Details page. Feel free to add your own flavor to the app, but use 
 these screenshots to get started.
 
-![Search screen](images/search.jpg)
-![Sort screen](images/sort.jpg)
-![Details screen](images/details.jpg)
+![Search screen](images/search.jpg) ![Sort screen](images/sort.jpg) ![Details screen](images/details.jpg)
 
 How will we review?
 -------------------
