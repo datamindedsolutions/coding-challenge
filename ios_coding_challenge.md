@@ -14,11 +14,13 @@ Prototype the following projects:
 ### Noteworth Lunch
 
 1. Use the [Google Places API](https://developers.google.com/places/web-service/intro).
-1. A user should be presented with a list of restaurants based on the food type
+2. A user should be presented with a list of restaurants based on the food type
 and the location they enter.
-2. A user should be able to sort the list by Best Match, Distance, and Most Reviewed.
-3. A user should be taken to a details page of the restaurant based on the restaurant
+3. A user should be able to sort the list by Best Match, Distance, and Most Reviewed.
+4. A user should be taken to a details page of the restaurant based on the restaurant
 they select.
+5. There should be a seperation between the data and view layer.
+6. The app should be extensible. 
 
 An adequate solution might be developed within 4 - 8 hours, but please spend however much time it takes to construct a great solution.
 
@@ -28,7 +30,6 @@ Technical spec
 For **iOS** use the following technologies:
 
 1. Swift
-2. Cocoapods
 
 For **Android** use the following technologies:
 1. Java
