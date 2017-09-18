@@ -51,14 +51,3 @@ Bonus point (these items are optional):
 
 * **Scalability**: will technical choices scale well? If not, is there a discussion of those choices in the README? 
 * **Production-readiness**: does the code include monitoring? logging? proper error handling?
-
-Coding Challenge
-----------------
-
-[Guidelines can be found here.](coding_challenge.md)
-
-### Acknowledgements
-
-We're constantly evolving our coding challenge, this version is based on [Uber’s coding challenge][uber].
-
-[uber]: https://github.com/uber/coding-challenge-tools

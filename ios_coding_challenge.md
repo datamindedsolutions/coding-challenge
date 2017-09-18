@@ -34,6 +34,11 @@ For **iOS** use the following technologies:
 For **Android** use the following technologies:
 1. Java
 
+How will we review?
+-------------------
+
+[Guidelines can be found here](https://github.com/datamindedsolutions/coding-challenge)
+
 High Level UI UX Requirements
 -----------------------------
 
@@ -43,7 +48,3 @@ these screenshots to get started.
 
 ![Search screen](images/search.jpg) ![Sort screen](images/sort.jpg) ![Details screen](images/details.jpg)
 
-How will we review?
--------------------
-
-[Guidelines can be found here](https://github.com/datamindedsolutions/coding-challenge)
