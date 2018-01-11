@@ -16,7 +16,7 @@ Prototype the following projects:
 1. Use the [Google Places API](https://developers.google.com/places/web-service/intro).
 2. A user should be presented with a list of restaurants based on the food type
 and the location they enter.
-3. A user should be able to sort the list by Best Match, Distance, and Most Reviewed.
+3. A user should be able to sort the list by Best Match and Distance.
 4. A user should be taken to a details page of the restaurant based on the restaurant
 they select.
 5. There should be a seperation between the data and view layer.
