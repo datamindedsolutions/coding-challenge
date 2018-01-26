@@ -42,7 +42,7 @@ How will we review?
 High Level UI UX Requirements
 -----------------------------
 
-You can use the Yelp app to get insperation on how to present the List, 
+You can use the Yelp app to get inspiration on how to present the List, 
 Sorting, and Details page. Feel free to add your own flavor to the app, but use 
 these screenshots to get started.
 
