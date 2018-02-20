@@ -11,11 +11,11 @@ Functional spec
 
 Prototype the following projects:
 
-### Noteworth Lunch
+### Noteworth Lunch Requirements
 
 1. Use the [Google Places API](https://developers.google.com/places/web-service/intro).
 2. A user should be presented with a list of restaurants based on the food type
-and the location they enter.
+and the user's current location.
 3. A user should be able to sort the list by Best Match and Distance.
 4. A user should be taken to a details page of the restaurant based on the restaurant
 they select.
@@ -44,7 +44,8 @@ High Level UI UX Requirements
 
 You can use the Yelp app to get inspiration on how to present the List, 
 Sorting, and Details page. Feel free to add your own flavor to the app, but use 
-these screenshots to get started.
+these screenshots to get started. Please note that the screenshots presented here 
+are just for inspiration, they are not requirements.
 
 ![Search screen](images/search.jpg) ![Sort screen](images/sort.jpg) ![Details screen](images/details.jpg)
 
