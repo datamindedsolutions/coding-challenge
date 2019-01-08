@@ -46,7 +46,7 @@ How will we review?
 
 High Level UI/UX Fullstack Inspiration
 -----------------------------
-You can use the ![Yelp website](https://www.yelp.com/search?cflt=restaurants&find_loc=285+Fulton+St%2C+New+York%2C+NY+10006) to get inspiration on how to present the List, 
+You can use the [Yelp website](https://www.yelp.com/search?cflt=restaurants&find_loc=285+Fulton+St%2C+New+York%2C+NY+10006) to get inspiration on how to present the List, 
 Sorting, and Details page. Feel free to add your own flavor to the app, but use 
 these screenshots to get started. Please note that the screenshots presented here 
 are just for inspiration, they are not requirements.

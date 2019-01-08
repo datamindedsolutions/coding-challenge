@@ -1,7 +1,7 @@
 Coding challenge
 ==================================
 
-Please complete the project described in our [coding challenge](mobile_coding_challenge.md).
+Please complete the project described in our [coding challenge](coding_challenge.md).
 
 Existing code
 -------------
